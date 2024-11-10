@@ -3,7 +3,7 @@
 ## Project Title: Sales Performance Analysis for a Retail Store 
 
 ### Project Overview
-KATCLEAN VENTURES is a Clothing Store with Outlets in different locations in the four major Regions (East, North, South and West). Six major types of Clothings (Hat, Gloves, Jacket, Shirts, Shoes and Socks) are sold in these outlets and large volumes of data was gathered from the 6 Regions This project is aimed at finding insights such as Regional Performance, best selling Products, least selling products, month on month sales to help the management make smart decisions on how to take the organisation to the next level. 
+*KATCLEAN VENTURES* is a Clothing Store with Outlets in different locations in the four major Regions (East, North, South and West). Six major types of Clothings (Hat, Gloves, Jacket, Shirts, Shoes and Socks) are sold in these outlets and large volumes of data was gathered from the 6 Regions This project is aimed at finding insights such as Regional Performance, best selling Products, least selling products, month on month sales to help the management make smart decisions on how to take the organisation to the next level. 
 
 ### Data Sources
 The primary source of Data used here is Sales Data from all the outlets in the 6 Regions.
