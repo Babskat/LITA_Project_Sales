@@ -21,11 +21,17 @@ The primary source of Data used here is Sales Data from all the outlets in the 6
 
 - Power BI
 
-- ### Data Cleaning and Preparations
+### Data Cleaning and Preparations
  The following actions were performed in the inial phase of the Data Cleaning and preparations;
   
  1. Data loading and inspectiom
  2. Handling missing variables
  3. Data cleaning and formatting
+
+### Exploratory Data Analysis
+
+
+
+### Data Analysis
 
 
