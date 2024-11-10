@@ -9,7 +9,8 @@
 The primary source of Data used here is Sales Data from all the outlets in the 6 Regions.
 
 ### Tools Used
-- Microsoft Excel [Download Here]([Capstone Project.xlsx](https://github.com/user-attachments/files/17692017/Capstone.Project.xlsx)
+- Microsoft Excel ([KatCleean Sales Project.xlsx](https://github.com/user-attachments/files/17692461/KatCleean.Sales.Project.xlsx)
+)
 
   1. For Data Cleaning
   2. For Analysis
