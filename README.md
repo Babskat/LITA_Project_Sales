@@ -36,6 +36,6 @@ The primary source of Data used here is Sales Data from all the outlets in the 6
 
 ### Data Visualization
 
-![Capstone Project.xlsx](https://github.com/user-attachments/files/17692250/Capstone.Project.xlsx)
+
 
 
