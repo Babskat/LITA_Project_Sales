@@ -9,7 +9,8 @@ KATCLEAN VENTURES is a Clothing Store with Outlets in different locations in the
 The primary source of Data used here is Sales Data from all the outlets in the 6 Regions.
 
 ### Tools Used
-- Microsoft Excel [Download Here]
+- Microsoft Excel [Download Here]([Capstone Project.xlsx](https://github.com/user-attachments/files/17692017/Capstone.Project.xlsx)
+
   1. For Data Cleaning
   2. For Analysis
   3. For Data Visualization
